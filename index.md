@@ -1,6 +1,8 @@
 ## Я пробую создавать статичный сайт и учусь использовать Markdown
 
+
 ###Welcome to GitHub Pages
+[SECOND PAGE](second.md)
 
 You can use the [editor on GitHub](https://github.com/irina-slinko/new_site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
